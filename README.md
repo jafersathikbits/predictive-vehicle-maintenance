@@ -198,4 +198,5 @@ Review repository and hosting file-size limits before committing datasets and mo
 
 ## License
 
-A standalone `LICENSE` file has not yet been added. Licensing will be finalized across the project repositories together. Until a license is added, do not assume that the project is available for unrestricted reuse.
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
