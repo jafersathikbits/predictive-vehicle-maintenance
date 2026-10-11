@@ -1,0 +1,28 @@
+{
+  "best_model": "XGBoost",
+  "test_rows": 10000,
+  "positive_rate": 0.80996,
+  "results": {
+    "XGBoost": {
+      "AUC": 1.0,
+      "Recall_1": 1.0,
+      "Precision_1": 1.0,
+      "F1_1": 1.0,
+      "Accuracy": 1.0
+    },
+    "LightGBM": {
+      "AUC": 1.0,
+      "Recall_1": 1.0,
+      "Precision_1": 1.0,
+      "F1_1": 1.0,
+      "Accuracy": 1.0
+    },
+    "RandomForest": {
+      "AUC": 1.0,
+      "Recall_1": 1.0,
+      "Precision_1": 1.0,
+      "F1_1": 1.0,
+      "Accuracy": 1.0
+    }
+  }
+}
